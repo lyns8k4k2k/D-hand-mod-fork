@@ -1,0 +1,20 @@
+{
+  "mappings": {
+    "vigillant/lyns/fabric/dhandmod/mixin/InventorySwitchMixin": {
+      "handleInputEvents": "Lnet/minecraft/class_310;method_1508()V"
+    },
+    "vigillant/lyns/fabric/dhandmod/mixin/ItemStackMixin": {
+      "getBobbingAnimationTime": "Lnet/minecraft/class_1799;method_7965()I"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "vigillant/lyns/fabric/dhandmod/mixin/InventorySwitchMixin": {
+        "handleInputEvents": "Lnet/minecraft/class_310;method_1508()V"
+      },
+      "vigillant/lyns/fabric/dhandmod/mixin/ItemStackMixin": {
+        "getBobbingAnimationTime": "Lnet/minecraft/class_1799;method_7965()I"
+      }
+    }
+  }
+}

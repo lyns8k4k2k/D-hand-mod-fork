@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "package": "vigillant.lyns.fabric.dhandmod.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "client": [
+    "ItemStackMixin",
+    "InventorySwitchMixin"
+
+
+
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}
